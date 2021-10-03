@@ -6,8 +6,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1> Welcome User </h1>
+        <p1> learing react router </p1>
         <div> 
-          <button> click me </button>
+          <button> aboutus </button>
+          <button> text </button>
         </div>
       </header>
     </div>
